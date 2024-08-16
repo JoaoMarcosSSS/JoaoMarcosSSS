@@ -13,4 +13,4 @@ jofergu2020@gmail.com
 
 @jm_ssilva
 
-![GIF description]([([https://media.tenor.com/uUy7LkxW1R4AAAAM/neymar-neymar-jr.gif](https://media1.tenor.com/m/yLocP6KEYFkAAAAC/neymar.gif))])
+![GIF description]((https://media1.tenor.com/m/yLocP6KEYFkAAAAC/neymar.gif)
