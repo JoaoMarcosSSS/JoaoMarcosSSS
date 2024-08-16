@@ -1,5 +1,5 @@
 ## Hi there 👋
-### Welcome to my profile :blue_heart
+### Welcome to my profile 💙
 
 My name is João Marcos
 
