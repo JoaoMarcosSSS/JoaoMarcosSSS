@@ -1,16 +1,16 @@
 ## Hi there 👋
+### Welcome to my profile :blue_heart
 
-<!--
-**JoaoMarcosSSS/JoaoMarcosSSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is João Marcos
 
-Here are some ideas to get you started:
+- I'm studying at [Alura](https://www.alura.com.br)
+- I am developing in the JavaScript language
+- I use this space to organize and share my developed projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### You can contact me :mailbox
+
+jofergu2020@gmail.com
+
+@jm_ssilva
+
+![GIF description]([Tenor GIF link](https://media.tenor.com/uUy7LkxW1R4AAAAM/neymar-neymar-jr.gif))
